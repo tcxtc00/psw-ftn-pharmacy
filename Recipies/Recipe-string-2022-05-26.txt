@@ -1,0 +1,5 @@
+Pharmacy Official Document
+Name of medicine: string
+Instructions for therapy: string
+Recipe from doctor: string
+Date of Recipe: 2022-05-26
